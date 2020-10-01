@@ -1,6 +1,6 @@
 # kapp
 
-A new Flutter project.
+A new Flutter project with asp.net backend.
 
 ## Getting Started
 
